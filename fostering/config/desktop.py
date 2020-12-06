@@ -6,8 +6,8 @@ def get_data():
 	return [
 		{
 			"module_name": "Placement File",
-			"color": "'blue'",
-			"icon": "octicon octicon-briefcase-24",
+			"color": "#AA784D",
+			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("Placement File")
 		}
